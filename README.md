@@ -1,0 +1,1 @@
+Repository for Kaggle getting started projects
